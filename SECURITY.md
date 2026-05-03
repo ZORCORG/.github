@@ -1,29 +1,20 @@
-# Security Policy
+# Security Policy - ZORC Global
 
-## Supported Versions
-We provide security updates for the following versions of our applications:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| Main    | :white_check_mark: |
-| Legacy  | :x:                |
+## High-Level Assurance
+ZORC manages a vast infrastructure of critical applications. Our security protocols are designed to handle high-complexity environments where data integrity is paramount.
 
 ## Reporting a Vulnerability
-At ZORC, we take the security of our infrastructure and applications very seriously. If you believe you have found a security vulnerability in any of our services, please report it to us privately.
+If you have identified a vulnerability within our fleet, we expect professional, private disclosure. We value the contribution of the security community in keeping our infrastructure resilient.
 
-**Do not open public GitHub issues for security vulnerabilities.**
+**Contact:** support@zorc.se
 
-### How to report
-Send an email to: **support@zorc.se**
+### Reporting Requirements:
+1. **Target:** Specific Repository or URL.
+2. **Technical Brief:** Clear description of the finding.
+3. **PoC:** Steps to reproduce the issue.
 
-Please include:
-* The name of the affected application/repository.
-* A detailed description of the vulnerability.
-* Steps to reproduce (Proof of Concept).
-* Potential impact.
+### Our Commitment
+We prioritize verified security threats and will acknowledge your report within 48 business hours. We require strict adherence to **Responsible Disclosure** guidelines—please do not share details publicly until a remediation has been deployed.
 
-### Our Process
-* **Response:** We will acknowledge your report within 48 business hours.
-* **Disclosure:** We request that you follow **Responsible Disclosure**—please do not share vulnerability details publicly until we have had reasonable time to provide a fix.
-
-Thank you for helping keep ZORC secure.
+---
+© ZORC / Skrotify AB
